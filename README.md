@@ -6,3 +6,6 @@ As progressing through the game, the the player has to work out the next steps, 
 
 ## Installation
 To launch the game, please run the Python file "game.py" in command line.
+
+### Remark
+This game was developed as a part of a group project.
