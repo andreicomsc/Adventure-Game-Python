@@ -1,4 +1,4 @@
-# Adventure Game
+# Adventure Text Game
 This is a small adventure game running in the command line.
 Here the player can move through various locations.
 Also the player can TAKE, DROP, USE, and INSPECT various items found in the game.
